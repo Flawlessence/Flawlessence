@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flawlessence
-- 👀 I’m interested in Coding,Gaming,Anime and Book reading.
-- 🌱 I’m currently learning C++, Java, Mathematics.
+- 👀 I’m interested in ML,Data Analytics & Robots.
+- 🌱 I’m currently learning C++, Python, Mathematics.
 - 💞️ I’m looking to collaborate on Projects related to benefit human kind:).
 - 📫 How to reach me ...
 
